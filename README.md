@@ -8,5 +8,12 @@ Furthermore, our app assists farmers in managing their daily tasks by providing 
 
 In addition to these features, our app fosters community and commerce among farmers. It enables users to connect with fellow farmers, facilitating the direct buying and selling of crops and seeds, thereby eliminating the need for intermediaries.
 
+## Features
+- User-friendly interface designed for all age groups.
+- Solar-powered sensors for efficient data collection.
+- Integration of wireless communication technologies like LoRa for sensor interconnectivity.
+- Machine learning-based recommendation system for fertilizers and pesticides.
+- Marketplace (mandi) for buying and selling crops.
+
 ### Figma Design
 https://www.figma.com/file/5ON04uoPJDb6ePVlz5TyEr/Krishi-Gyan?type=design&node-id=0%3A1&mode=design&t=GOVUxNzoUaxAXuit-1
